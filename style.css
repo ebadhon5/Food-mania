@@ -1,0 +1,58 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+h1{
+font-size: 50px;
+}
+.button{
+    
+    text-decoration: none;
+    color: white;
+    padding: 10px 40px;
+font-weight: 700;
+    border-radius:30px;
+    background-image: linear-gradient(blue,aqua)
+}
+p{
+    margin-bottom: 50px;
+}
+.aqua{
+    color:aqua;
+}
+.flexiable-container{
+    display: flex;
+    margin-bottom: 10%;
+}
+.half-width{
+    width: 50%;
+    padding-left:5%;
+    padding-right:5%;
+}
+.half-width img{
+width: 100%;
+
+}
+.center-banner{
+   background-image: url(back.jpg);
+
+}
+.top-banner{
+    background-image: url(banner.jpg);
+    height: 500px;
+}
+#recipe-text{
+    text-align: center;
+}
+.bottom-banner{
+    box-shadow: 10px 20px 40px grey;
+    padding: 2%;
+    margin: 2%;
+    border-radius: 30px;
+}
+.image-radius{
+    border-radius:20px ;
+}
+#last-image{
+    height:195px ;
+}
